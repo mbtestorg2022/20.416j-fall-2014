@@ -118,7 +118,7 @@ Macosko, Evan Z., et al. "[Highly Parallel Genome–wide Expression Profiling of
 
 **Reading Effectively**
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[How to Navigate a Scientific Paper with Time Constraints: A Graphic Approach (PDF)](https://be.mit.edu/sites/default/files/documents/HowToReadAScientificPaper.pdf)
+[How to Navigate a Scientific Paper with Time Constraints: A Graphic Approach (PDF)](https://be.mit.edu/sites/default/files/documents/HowToReadAScientificPaper.pdf)
 
 
 {{< tdclose >}}
